@@ -73,7 +73,7 @@ const Franchising = () => {
           <p className={styles.text}>{t("franchise-head-text-2")}</p>
           <p className={styles.text}>{t("franchise-head-text-3")}</p>
           <h2 className={styles.title}>{t("franchise-head-text-4")}</h2>
-          <a className={styles.knowMoreBtn} href="/https://docs.google.com/forms/d/e/1FAIpQLSfcV-yDaBKt6fqK5LdCMnsqn9hyFWZBdwOcSXoitq4YfrZ5hg/viewform">{t("franchise-application")}</a>
+          <a className={styles.knowMoreBtn} href="https://docs.google.com/forms/d/e/1FAIpQLSfcV-yDaBKt6fqK5LdCMnsqn9hyFWZBdwOcSXoitq4YfrZ5hg/viewform">{t("franchise-application")}</a>
           </div>
         </div>
         
